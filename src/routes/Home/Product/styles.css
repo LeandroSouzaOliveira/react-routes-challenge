@@ -1,0 +1,10 @@
+.nav-link-container {
+  background-color: var(--color-bg-secondary);
+  height: 60px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.product-nav-link-item {
+  margin-right: 20px;
+}

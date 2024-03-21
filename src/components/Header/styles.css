@@ -4,17 +4,17 @@ header {
   display: flex;
 }
 
-.nav-items {
+.header-nav-items {
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.nav-link {
+.header-nav-link {
   color: var(--color-font-secondary);
 }
 
-.nav-link-items {
+.header-nav-link-items {
   padding-right: 20px;
 }
