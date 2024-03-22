@@ -8,3 +8,7 @@
 .product-nav-link-item {
   margin-right: 20px;
 }
+
+.product-active {
+  font-weight: 700;
+}

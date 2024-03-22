@@ -1,0 +1,6 @@
+.not-found-title {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--color-font-primary);
+}
